@@ -14,7 +14,7 @@ ART = os.path.join(PATH, 'resources', 'media')
 #        User Edit Variables                            #
 #########################################################
 ADDONTITLE = '[COLOR limegreen][B]The[/B][/COLOR]Tardis'
-BUILDERNAME = 'Capta1nJack'
+BUILDERNAME = 't0rchw00d'
 EXCLUDES = [ADDON_ID, 'repository.openwizard']
 # Text File with build info in it.
 BUILDFILE = 'http://'

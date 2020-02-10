@@ -1,5 +1,5 @@
 # tardis
-The Tardis Wizard - TARD15 - Build Installer For The Tardis builds by Capta1nJack
+The Tardis Wizard - TARD15 - Build Installer For The Tardis builds by t0rchw00d
 
 MANY THANKS TO DRINFERNOO FOR THE OPENWIZARD
 
