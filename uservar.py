@@ -13,7 +13,7 @@ ART = os.path.join(PATH, 'resources', 'media')
 #########################################################
 #        User Edit Variables                            #
 #########################################################
-ADDONTITLE = '[COLOR blue][B]Kodi[/B][/COLOR]Cord Cutter'
+ADDONTITLE = '[COLOR blue][B]Cordcutter[/B][/COLOR] Wizard'
 BUILDERNAME = 'thecordcutter'
 EXCLUDES = [ADDON_ID, 'repository.cordcutter']
 # Text File with build info in it.
