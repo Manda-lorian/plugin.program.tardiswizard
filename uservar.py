@@ -63,7 +63,7 @@ SPACER = '='
 COLOR1 = 'blue'
 COLOR2 = 'white'
 # Primary menu items   / {0} is the menu item and is required
-THEME1 = '[COLOR '+COLOR1+'][I]([COLOR '+COLOR1+'][B]Open[/B][/COLOR][COLOR ' + COLOR2 + ']Wizard[COLOR ' + COLOR1 + '])[/I][/COLOR] [COLOR '+COLOR2+']{0}[/COLOR]'
+THEME1 = '[COLOR '+COLOR1+'][I]([COLOR '+COLOR1+'][B]Cordcutter[/B][/COLOR][COLOR ' + COLOR2 + ']Wizard[COLOR ' + COLOR1 + '])[/I][/COLOR] [COLOR '+COLOR2+']{0}[/COLOR]'
 # Build Names          / {0} is the menu item and is required
 THEME2 = '[COLOR '+COLOR2+']{0}[/COLOR]'
 # Alternate items      / {0} is the menu item and is required
@@ -114,7 +114,7 @@ NOTIFICATION = 'http://'
 HEADERTYPE = 'Text'
 # Font size of header
 FONTHEADER = 'Font14'
-HEADERMESSAGE = '[COLOR blue][B]Open[/B][/COLOR]Wizard'
+HEADERMESSAGE = '[COLOR blue][B]Cordcutter[/B][/COLOR] Wizard'
 # url to image if using Image 424x180
 HEADERIMAGE = 'http://'
 # Font for Notification Window
